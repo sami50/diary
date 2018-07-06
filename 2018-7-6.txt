@@ -1,0 +1,3 @@
+Completed Supplier Add new model
+Doing Employee Add new Model
+Send bank reconcilation db changes to ranga
